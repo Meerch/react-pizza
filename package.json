@@ -23,9 +23,9 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "start": "scripts/start.js",
-    "build": "scripts/build.js",
-    "test": "scripts/test.js",
+    "start": "react-scripts start",
+    "build": "react-scripts start",
+    "test": "react-scripts start",
     "server": "server.js",
     "json-server": "json-server --watch public/db.json --port=3001"
   },
