@@ -7,3 +7,7 @@ Made according to the course [Pizza React (Archakov)](https://www.youtube.com/pl
 * Before that, I only knew about connect, but now I know about __useDispatch__ and __useSelector__, which is much more convenient and is used in a functional component.
 * I learned what __middleware__ is and how to use it.
 * And there was also the use of fake server data, which also bore fruit in the development.
+
+
+### To start
+In terminal `npm run start` and `npm run json-server`
