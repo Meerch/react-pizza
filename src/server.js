@@ -3,7 +3,7 @@ const server = jsonServer.create()
 const router = jsonServer.router('./public/db.json')
 const middlewares = jsonServer.defaults({
     static: './build',
-});
+})
 
 const PORT = process.env.PORT || 3001
 
